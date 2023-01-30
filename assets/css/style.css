@@ -370,6 +370,12 @@ footer{
 }
 
 .card {
-    border-radius: 20px;
-    border: 5px #000000 solid;
+    border: 5px solid black;
+    padding: 5px;
+    border-radius: 10px;;
+}
+
+.card-body1 {
+    overflow-y:scroll;
+    max-height: 450px;
 }
